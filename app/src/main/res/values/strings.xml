@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minha Aplicacao Android</string>
+    <string name="click_textview">Click no botão</string>
+    <string name="notificacao_button">Notificação</string>
+</resources>
